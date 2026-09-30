@@ -1,0 +1,7 @@
+numpy<2
+pandas
+scipy
+gensim
+scikit-learn
+matplotlib
+jupyter
